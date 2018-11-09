@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gif View in Android</string>
+    <string name="loading">Loading</string>
+    <string name="activity">Activity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="gifs">
+
+    <item>@raw/abctai1</item>
+        <item>@raw/abctai1</item>
+        <item>@raw/abctai2</item>
+        <item>@raw/abctai3</item>
+        <item>@raw/abctai4</item>
+        <item>@raw/abctai5</item>
+        <item>@raw/abctai6</item>
+        <item>@raw/abctai7</item>
+        <item>@raw/abctai8</item>
+        <item>@raw/abctai9</item>
+        <item>@raw/abctai10</item>
+        <item>@raw/abctai11</item>
+        <item>@raw/abctai12</item>
+        <item>@raw/abctai13</item>
+        <item>@raw/abctai14</item>
+        <item>@raw/abctai15</item>
+        <item>@raw/abctai16</item>
+        <item>@raw/abctai17</item>
+        <item>@raw/abctai18</item>
+        <item>@raw/abctai19</item>
+
+
+
+    </string-array>
+</resources>
